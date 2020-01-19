@@ -1,0 +1,34 @@
+  .ui.list > div.item.listItem{
+    margin: 5px;
+    border: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: ridge;
+  }
+
+  .ui.list > div.item.listItem:hover{
+    background-color: lightblue;
+  }
+
+  .ui.container.listItemContent{
+    padding: 15px;
+  }
+
+  .ui.form{
+    display: flex;
+  }
+
+.ui.violet.button{
+  margin: 2px 5px 15px 5px;
+}
+
+.ui.form .field>.selection.dropdown{
+  min-width: 8em;
+  width: 50%;
+}
+
+.ui.form .field {
+  width: inherit;
+  margin-right: 2px;
+}

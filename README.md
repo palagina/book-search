@@ -1,3 +1,12 @@
+A book search service with which users can:
+1. Find book by name and/or author
+2. Get list of books with preview and short description
+
+The data used: Google Books API https://developers.google.com/books/docs/overview
+
+
+
+===================================================================000
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
